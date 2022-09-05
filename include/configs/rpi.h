@@ -55,6 +55,8 @@
 /* Console configuration */
 
 /* Environment */
+#undef CONFIG_BOOTDELAY
+#define CONFIG_BOOTDELAY -2
 
 /* Shell */
 
